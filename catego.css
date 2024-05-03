@@ -106,7 +106,7 @@ main{
 
     width: 100vw;
     height: 75vh;
-    background-image: url(/img/fondo.jpg);
+    background-image: url(fondo.jpg);
     background-position: center;
     background-size: cover;
 }
